@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Studying Computer Engineering.
 - 💬 Ask me about myself.
-- 📫 How to reach me: https://www.linkedin.com/in/sameer-bhatt-905562232/
+-< a href=" 📫 How to reach me: https://www.linkedin.com/in/sameer-bhatt-905562232/">
 -->
